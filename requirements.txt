@@ -1,0 +1,7 @@
+ipykernel
+python-dotenv
+rich
+pandas
+plotly
+streamlit
+numpy
