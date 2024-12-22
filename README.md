@@ -9,7 +9,7 @@ Do you ever wonder where your money goes? 💸
 Do you wish you could track your expenses without a ton of spreadsheets? 📊
 Well, say hello to your new best friend — the **Expense Tracker**! 🙌
 
-https://github.com/user-attachments/assets/49ac6399-9b4f-48f1-9e76-dcbc07455253
+https://github.com/user-attachments/assets/ab00ef62-fc0c-489d-9acc-18088fda20d9
 
 ---
 
